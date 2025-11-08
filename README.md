@@ -24,4 +24,4 @@ pip install -r requirements.txt
 
 ## Train process
 ![MSE](https://github.com/yang84785371-bit/informer_WeatherPred/blob/main/epoch_mse_curves.png)
-![MAE]()
+![MAE](https://github.com/yang84785371-bit/informer_WeatherPred/blob/main/train_mae_curve.png)
