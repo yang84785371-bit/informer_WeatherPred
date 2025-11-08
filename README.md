@@ -22,4 +22,6 @@ pip install -r requirements.txt
 ![预测结果](outcome/test_pred_vs_true_s10463_c0.png)
 
 
-
+## Train process
+![MSE]()
+![MAE]()
