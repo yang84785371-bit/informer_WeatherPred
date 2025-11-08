@@ -18,6 +18,7 @@ Install the necessary dependencies by using the following:
 pip install -r requirements.txt
 
 ##prediction
-<img width="1152" height="864" alt="test_pred_vs_true_s10463_c0" src="https://github.com/user-attachments/assets/bbd3ecf0-5bd1-4055-98b9-a7d00e982cf4" />
+![预测结果](outcome/test_pred_vs_true_s10463_c0.png)
+
 
 
