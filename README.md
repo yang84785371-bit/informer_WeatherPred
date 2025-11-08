@@ -16,9 +16,10 @@ Install the necessary dependencies by using the following:
 
 ```bash
 pip install -r requirements.txt
+```
 
-##prediction
-![预测结果](https://github.com/yang84785371-bit/informer_WeatherPred/blob/main/outcome/test_pred_vs_true_s10463_c0.png)
+## Prediction
+![预测结果](outcome/test_pred_vs_true_s10463_c0.png)
 
 
 
